@@ -26,7 +26,7 @@
 
 ## Run Instructions
 ```bash
-git clone https://github.com/brunojs02/react-native-movies-app.git rnmovies
+git clone https://github.com/ahmetdoner7/movie-app.git rnmovies
 cd rnmovies && (npm i || yarn)
 ```
 ### iOS
